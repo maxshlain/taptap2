@@ -26,4 +26,13 @@ Taptap changes the game. Now you just begin typing. If the text you just started
 
  As soon as you see that the text is in the correct language, you can continue typing.
 
- ß
+ 
+ # technical details
+ - pip for dependency management
+ - uv for python version management
+ - uv as pip replacement
+ - no poetry
+ - pynput for global keyboard listening
+ - strive to high test coverage
+ - macos first
+
